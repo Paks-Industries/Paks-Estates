@@ -1,0 +1,23 @@
+.contact-page {
+  background: #fff;
+  padding: 2em;
+  border-radius: 8px;
+  margin-bottom: 2em;
+}
+.contact-form {
+  display: grid;
+  gap: 1em;
+  max-width: 450px;
+}
+.contact-form input, .contact-form textarea {
+  width: 100%;
+  padding: 0.5em;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+.office-map {
+  margin: 2em 0;
+}
+.email {
+  margin-top: 1em;
+}

@@ -1,0 +1,7 @@
+:root {
+  --primary: #C19A6B;     /* Gold/Earth tone */
+  --accent: #222;         /* Charcoal */
+  --bg: #f5f4f0;          /* Warm neutral */
+  --font-main: 'Poppins', 'Roboto', Arial, sans-serif;
+  --cta: #d39818;         /* Bright gold for CTAs */
+}

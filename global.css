@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto:400,500&display=swap');
+body {
+  margin: 0; font-family: var(--font-main);
+  background: var(--bg); color: var(--accent);
+}
+h1, h2, h3 { font-family: 'Poppins', sans-serif; }
+a { color: var(--primary); text-decoration: none; }
+.cta { background: var(--cta); color: #fff; padding: 0.5em 1em; border-radius: 4px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2em; }
+.card { background: #fff; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 1em; }
+.sticky { position: sticky; top: 0; z-index: 100; background: var(--bg); }
+footer { background: var(--accent); color: #fff; text-align: center; padding: 1em 0; }
